@@ -2,7 +2,7 @@ JSnack Blocco 1
 ===
 
 ## Consegna
-*JSSnack 5*
+*JSnack 5*
  
  Crea un array vuoto.
  Chiedi per 6 volte all’utente di inserire un numero,
